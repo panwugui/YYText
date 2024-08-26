@@ -12,7 +12,7 @@
 #import "YYTextAsyncLayer.h"
 #import <libkern/OSAtomic.h>
 
-
+//我再改改哈
 /// Global display queue, used for content rendering.
 static dispatch_queue_t YYTextAsyncLayerGetDisplayQueue() {
 #define MAX_QUEUE_COUNT 16
